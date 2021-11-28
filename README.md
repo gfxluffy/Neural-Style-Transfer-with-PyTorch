@@ -1,4 +1,4 @@
-# Neural-Style-Transfer-with-PyTorch
+# Neural-Style-Transfer-with-PyTorch :art:
 Coursera Guided Project
 
 An implementation of neural style transfer using PyTorch.
